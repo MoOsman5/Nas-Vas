@@ -82,7 +82,7 @@
       cursor: pointer;
       border-radius: 5.813px;
       background: #000;
-      width: 10vw;
+      width: 20vw;
       margin-left: 10px;
     }
 
@@ -94,5 +94,13 @@
       height: 23.25px;
       flex-shrink: 0;
     }
+  }
+}
+
+@media (max-width: 768px) {
+  .product-card {
+    width: 65vw;
+    margin: 2vw;
+    height: 60vh;
   }
 }

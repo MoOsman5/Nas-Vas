@@ -34,7 +34,13 @@ ul {
     margin-right: 0;
 
     .listItem {
-      margin-right: 10px;
+
+      width: 110%;
+      height:90%;
+    }
+    .bt {
+
+      margin-right: 5%;
     }
   }
 }
@@ -43,6 +49,7 @@ ul {
   margin-bottom: 15px;
   border: 0;
   background-color: aliceblue;
+  
 }
 
 .mainImgeCon {
