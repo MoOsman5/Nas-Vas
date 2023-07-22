@@ -1,0 +1,34 @@
+.loader-bar {
+  width: 500px;
+  height: 10px;
+  background-color: #f1f1f1;
+  position: relative;
+  border-radius: 10px;
+}
+
+.progress-bar {
+  width: 0;
+  height: 100%;
+  background-color: #874a4a;
+  border-radius: 10px;
+  -webkit-animation: progress 2s linear infinite;
+          animation: progress 2s linear infinite;
+}
+
+@-webkit-keyframes progress {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@keyframes progress {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}/*# sourceMappingURL=Loading.css.map */

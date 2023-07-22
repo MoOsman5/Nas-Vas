@@ -1,0 +1,167 @@
+.secContainer {
+  position: relative;
+}
+
+.product-details {
+  flex: 2;
+  position: absolute;
+  right: 0;
+}
+
+.product-name {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 23.02px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 34.53px */
+  text-transform: capitalize;
+  margin: 10px;
+}
+
+.rate {
+  width: 100%;
+  height: 25.047px;
+  flex-shrink: 0;
+  display: block;
+  margin: 5px;
+}
+
+.icon-360 {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+}
+
+.sallary {
+  color: #b93c3c;
+  font-size: 23.02px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%; /* 23.02px */
+  font-variant: small-caps;
+  display: inline;
+  margin: 10px;
+}
+
+.pastSallary {
+  display: inline;
+  color: #818181;
+  font-family: Montserrat;
+  font-size: 19.183px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%; /* 19.183px */
+  font-variant: small-caps;
+  -webkit-text-decoration-line: line-through;
+          text-decoration-line: line-through;
+}
+
+.product-description {
+  overflow: hidden;
+  color: rgba(7, 7, 7, 0.6);
+  text-overflow: ellipsis;
+  font-family: Montserrat;
+  font-size: 17.265px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120.5%; /* 20.804px */
+  text-transform: lowercase;
+  margin: 10px;
+}
+
+.size {
+  color: #b93c3c;
+  font-family: Montserrat;
+  font-size: 21.101px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 10px;
+}
+
+.sizeBoxs {
+  display: flex;
+  width: 78.102px;
+  height: 46.039px;
+  padding: 10.688px 18.087px;
+  justify-content: center;
+  align-items: center;
+  gap: 8.221px;
+  border-radius: 6.577px;
+  flex-shrink: 0;
+  margin: 10px;
+}
+
+.colorBox {
+  width: 28.73px;
+  height: 28.73px;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.color {
+  color: #b93c3c;
+  font-family: Montserrat;
+  font-size: 21.101px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 10px;
+}
+
+.quantity {
+  margin-top: 20px;
+  width: 153px;
+  height: 50px;
+  border: 1px sold gray;
+}
+
+.addto-bt {
+  background-color: black; /* Green */
+  width: 284px;
+  height: 50px;
+  flex-shrink: 0;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.header {
+  display: flex;
+  background-color: #000;
+  color: aliceblue;
+  height: 10vh;
+  padding: 1vh;
+  align-items: center;
+  padding-left: 9vw;
+  font-size: 23px;
+}
+
+.secContainer {
+  margin: 0 5vw;
+}
+
+.additional {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 25vw;
+}
+
+.additional div {
+  display: flex;
+  align-items: center;
+}
+
+.additional div svg {
+  margin: 15px;
+}
+
+.additional div span {
+  color: #707070;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}/*# sourceMappingURL=ProductDetailsPage.css.map */
