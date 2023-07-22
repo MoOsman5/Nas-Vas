@@ -6,17 +6,17 @@
   border-radius: 8px;
   padding: 16px;
   margin-right: 16px;
-  width: 18vw;
+  width: 15vw;
   margin: 2vw;
-  height: 60vh;
+  height: 45vh;
 
   .icon {
     svg {
       position: absolute;
       top: 10px;
       right: 20px;
-      width: 9vh;
-      height: 9vh;
+      width: 7vh;
+      height: 7vh;
       border-radius: 50%;
       background-color: #f5f5f5;
     }
@@ -30,6 +30,8 @@
 
   .rate-card {
     margin-left: 0.5vw;
+    font-size:100%;
+    margin-bottom: 1%;
   }
 
   .product-info {
@@ -37,7 +39,7 @@
   }
 
   .product-title {
-    font-size: 1.5rem;
+    font-size: 100%;
     margin-bottom: 8px;
     margin-left: 10px;
   }
@@ -45,12 +47,13 @@
   .product-salary {
     color: #b93c3c;
     font-family: Montserrat;
-    font-size: 20px;
+    font-size:90%;
     margin-left: 10px;
     font-style: normal;
     font-weight: 500;
     line-height: 100%; /* 17.438px */
     font-variant: small-caps;
+    margin-top: 0;
   }
 
   .product-description {
@@ -58,12 +61,13 @@
     color: #787878;
     text-overflow: ellipsis;
     font-family: Montserrat;
-    font-size: 15.5px;
+    font-size: 70%;
     font-style: normal;
     font-weight: 400;
     line-height: 100%; /* 15.5px */
     text-transform: lowercase;
-    margin-bottom: 30px;
+    margin-bottom:1%;
+    
   }
 
   .product-actions {
