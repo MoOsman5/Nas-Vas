@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Nas-Vas/static/css/main.7f1d93dd.css",
-    "main.js": "/Nas-Vas/static/js/main.884e55f1.js",
-    "static/css/62.b0251b79.chunk.css": "/Nas-Vas/static/css/62.b0251b79.chunk.css",
+    "main.css": "/Nas-Vas/static/css/main.73c4f1ed.css",
+    "main.js": "/Nas-Vas/static/js/main.74fb6960.js",
+    "static/css/62.ab19765d.chunk.css": "/Nas-Vas/static/css/62.ab19765d.chunk.css",
     "static/js/62.82748321.chunk.js": "/Nas-Vas/static/js/62.82748321.chunk.js",
     "static/js/198.90e57461.chunk.js": "/Nas-Vas/static/js/198.90e57461.chunk.js",
     "static/media/img4.png": "/Nas-Vas/static/media/img4.1d02a450067c0e487381.png",
@@ -16,14 +16,14 @@
     "static/media/cardimg5.jpg": "/Nas-Vas/static/media/cardimg5.f9094855522e2ac00bf6.jpg",
     "static/media/revicons.woff": "/Nas-Vas/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Nas-Vas/index.html",
-    "main.7f1d93dd.css.map": "/Nas-Vas/static/css/main.7f1d93dd.css.map",
-    "main.884e55f1.js.map": "/Nas-Vas/static/js/main.884e55f1.js.map",
-    "62.b0251b79.chunk.css.map": "/Nas-Vas/static/css/62.b0251b79.chunk.css.map",
+    "main.73c4f1ed.css.map": "/Nas-Vas/static/css/main.73c4f1ed.css.map",
+    "main.74fb6960.js.map": "/Nas-Vas/static/js/main.74fb6960.js.map",
+    "62.ab19765d.chunk.css.map": "/Nas-Vas/static/css/62.ab19765d.chunk.css.map",
     "62.82748321.chunk.js.map": "/Nas-Vas/static/js/62.82748321.chunk.js.map",
     "198.90e57461.chunk.js.map": "/Nas-Vas/static/js/198.90e57461.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f1d93dd.css",
-    "static/js/main.884e55f1.js"
+    "static/css/main.73c4f1ed.css",
+    "static/js/main.74fb6960.js"
   ]
 }
