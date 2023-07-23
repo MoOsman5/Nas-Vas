@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Nas-Vas/static/css/main.37624cfe.css",
-    "main.js": "/Nas-Vas/static/js/main.275333cc.js",
-    "static/css/62.1327bddc.chunk.css": "/Nas-Vas/static/css/62.1327bddc.chunk.css",
-    "static/js/62.3291ddf4.chunk.js": "/Nas-Vas/static/js/62.3291ddf4.chunk.js",
+    "main.css": "/Nas-Vas/static/css/main.7f1d93dd.css",
+    "main.js": "/Nas-Vas/static/js/main.884e55f1.js",
+    "static/css/62.b0251b79.chunk.css": "/Nas-Vas/static/css/62.b0251b79.chunk.css",
+    "static/js/62.82748321.chunk.js": "/Nas-Vas/static/js/62.82748321.chunk.js",
     "static/js/198.90e57461.chunk.js": "/Nas-Vas/static/js/198.90e57461.chunk.js",
     "static/media/img4.png": "/Nas-Vas/static/media/img4.1d02a450067c0e487381.png",
     "static/media/img2.png": "/Nas-Vas/static/media/img2.b9769418d7a1b44f1bb1.png",
@@ -16,14 +16,14 @@
     "static/media/cardimg5.jpg": "/Nas-Vas/static/media/cardimg5.f9094855522e2ac00bf6.jpg",
     "static/media/revicons.woff": "/Nas-Vas/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Nas-Vas/index.html",
-    "main.37624cfe.css.map": "/Nas-Vas/static/css/main.37624cfe.css.map",
-    "main.275333cc.js.map": "/Nas-Vas/static/js/main.275333cc.js.map",
-    "62.1327bddc.chunk.css.map": "/Nas-Vas/static/css/62.1327bddc.chunk.css.map",
-    "62.3291ddf4.chunk.js.map": "/Nas-Vas/static/js/62.3291ddf4.chunk.js.map",
+    "main.7f1d93dd.css.map": "/Nas-Vas/static/css/main.7f1d93dd.css.map",
+    "main.884e55f1.js.map": "/Nas-Vas/static/js/main.884e55f1.js.map",
+    "62.b0251b79.chunk.css.map": "/Nas-Vas/static/css/62.b0251b79.chunk.css.map",
+    "62.82748321.chunk.js.map": "/Nas-Vas/static/js/62.82748321.chunk.js.map",
     "198.90e57461.chunk.js.map": "/Nas-Vas/static/js/198.90e57461.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37624cfe.css",
-    "static/js/main.275333cc.js"
+    "static/css/main.7f1d93dd.css",
+    "static/js/main.884e55f1.js"
   ]
 }
