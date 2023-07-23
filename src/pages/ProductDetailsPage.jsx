@@ -206,7 +206,7 @@ class ProductDetails extends Component {
                   <Box
                     sx={{ display: "flex", justifyContent: "flex-end", mt: 2 }}
                   >
-                    <button className="addto-bt" onClick={this.handleAddToCart}>
+                    <button className="addto-bt1" onClick={this.handleAddToCart}>
                       Buy Now
                     </button>
                   </Box>
