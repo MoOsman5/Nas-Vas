@@ -96,6 +96,11 @@
     }
   }
 }
+@media (max-width: 1150px) {
+  .product-card {
+    height: 65vh;
+  }
+}
 @media (max-width: 768px) {
   .product-card {
     width: 20vw;
@@ -106,7 +111,7 @@
 
 @media (max-width:548px) {
   .product-card {
-    width: 10vw;
+    width: 17vw;
     margin: 2vw;
     height: 60vh;
   }
