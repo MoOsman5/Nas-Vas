@@ -2,7 +2,7 @@
 $primaryColor: #b93c3c;
 $secondaryColor: brown;
 $textColor: #424242;
-$fontSize: 140%;
+$fontSize: 1.011vw;
 
 .container {
   display: flex;
@@ -11,7 +11,7 @@ $fontSize: 140%;
   margin-bottom: 0;
   padding: 1%;
   padding-left: 7%;
-  @media (max-width: 768px) {
+  @media (max-width: 550px) {
     flex-direction: column;
     align-items: flex-start;
   }
@@ -24,7 +24,7 @@ $fontSize: 140%;
       display: inline-block;
       width: 60%;
       margin-right: 7%;
-      @media (max-width: 768px) {
+      @media (max-width: 550px) {
         width: 20%;
       }
     }
@@ -33,6 +33,9 @@ $fontSize: 140%;
   .nav {
     display: flex;
     flex: 4;
+    @media (max-width: 550px) {
+        width: 100%;
+    }
 
     ul {
       display: flex;
@@ -56,7 +59,7 @@ $fontSize: 140%;
           margin: 10px;
           text-decoration: none;
 
-          @media (max-width: 768px) {
+          @media (max-width: 550px) {
             font-size: 49%;
             margin: 5px;
             margin-left: 0;
@@ -136,9 +139,9 @@ $fontSize: 140%;
     flex: 1;
     margin-left: 10px;
 
-    @media (max-width: 768px) {
+    @media (max-width: 550px) {
       margin: 0;
-      margin-left: 160px;
+      margin-left: 50%;
       margin-top: -40PX;
       
     }
