@@ -96,8 +96,22 @@
     }
   }
 }
-
 @media (max-width: 768px) {
+  .product-card {
+    width: 20vw;
+    margin: 2vw;
+    height: 60vh;
+  }
+}
+
+@media (max-width:548px) {
+  .product-card {
+    width: 10vw;
+    margin: 2vw;
+    height: 60vh;
+  }
+}
+@media (max-width: 464px) {
   .product-card {
     width: 65vw;
     margin: 2vw;
