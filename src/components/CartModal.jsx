@@ -190,7 +190,9 @@ class CartModal extends React.Component {
               <p className="sub-total">Sub Total</p>
               <p className="total-sallary">{total} EGP</p>
             </Box>
-            <button className="addto-bt" style={{ width: "50%" }}>
+            <button
+              style={{ width: "100%", color: "#fff",background:'black',borderRadius:'10px',height:'35px' }}
+            >
               GO TO CART
             </button>
           </Box>
