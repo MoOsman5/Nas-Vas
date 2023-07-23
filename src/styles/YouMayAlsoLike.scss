@@ -1,4 +1,8 @@
 .you-may-also-like {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  // align-items: center;
   .slider {
     display: flex;
     flex-direction: row;
