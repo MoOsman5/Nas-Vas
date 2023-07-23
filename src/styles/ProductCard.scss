@@ -82,7 +82,7 @@
       cursor: pointer;
       border-radius: 5.813px;
       background: #000;
-      width: 20vw;
+      width:75%;
       margin-left: 10px;
     }
 
@@ -116,5 +116,10 @@
     width: 65vw;
     margin: 2vw;
     height: 60vh;
+  }
+}
+@media (max-width: 464px) {
+  .add-to-cart {
+    width: 100%;
   }
 }
